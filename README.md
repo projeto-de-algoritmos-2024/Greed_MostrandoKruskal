@@ -38,7 +38,6 @@ Deve ter o python e baixar a biblioteva pygame em seu módulo.
 Execute o código utilizando o comando python , após abrir o pygame aperte espaço para rodar o algoritmo de kruskal , após ele achar a MST aperte enter para mostrar a estrutura union-find
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Link para o vídeo https://youtu.be/ikGvmq5yA_A
 
 
