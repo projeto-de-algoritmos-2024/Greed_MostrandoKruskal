@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0038028  |  Guilherme Evangelista Ferreira dos Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0147816  |  Vinicius Edwardo Pereira Oliveira |
 
 ## Sobre 
 Fizemos um programa mostrando como funciona o algortimo de kruskal e a estrutura union-find utilizando o pygame
