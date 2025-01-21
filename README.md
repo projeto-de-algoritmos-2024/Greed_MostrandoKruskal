@@ -13,7 +13,21 @@
 Fizemos um programa mostrando como funciona o algortimo de kruskal e a estrutura union-find utilizando o pygame
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Inicio
+![INICIO](images/InicioKruskal.png)
+
+Algoritmo executando 
+![Grafo](images/grafoKruskal.png)
+
+MST gerada
+![MST](images/mstKruskal.png)
+
+Union-Find
+![Union](images/unionFIndKruskal.png)
+
+
+
+
 
 ## Instalação 
 **Linguagem**: Python<br>
